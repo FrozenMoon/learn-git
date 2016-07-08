@@ -6,3 +6,4 @@ how to use github
 + 序列1
 + 序列2
 + 序列3
++ 序列4
